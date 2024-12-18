@@ -1,0 +1,38 @@
+{
+  "loginScreen": {
+    "validEmail": "milan@gmail.com",
+    "invalidEmail": "@gmail.com",
+    "validPassword": "MilanObrenov9",
+    "invalidPassword": "12345678",
+    "incorrectErrorMessage": "Incorrect email or password",
+    "emptyErrorMessage": "All fields must be filled!"
+  },
+  "registrationScreen": {
+    "validName": "Milan",
+    "invalidName": "Mi",
+    "validEmail": "obrenovmilan98@gmail.com",
+    "invalidEmail": "@gmail.com",
+    "validPassword": "milan1234",
+    "invalidPassword": "1234567",
+    "invalidConfirmPassword": "milan",
+    "emptyErrorMessage": "All fields must be filled!",
+    "invalidNameMessage": "Name must be 3–25 characters",
+    "invalidEmailMessage": "Email must be in correct format",
+    "invalidPasswordMessage": "Password must contain at least one number and be minimum 8 characters long",
+    "invalidConfirmPasswordMessage": "Passwords must match",
+    "existingEmailErrorMessage": "Email already in use"
+  },
+  "settingsScreen": {
+    "enteredName": "Nemanjaaa",
+    "SLBPrice": "$29.99"
+  },
+  "eventScreen": {
+    "enteredName": "Nemanjaaa",
+    "SLBPrice": "$29.99"
+  },
+  "friendsScreen": {
+    "enteredName": "Bojan"
+  }
+
+}
+
